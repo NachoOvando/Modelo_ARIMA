@@ -1,0 +1,9 @@
+Dataset: "https://www.datos.gob.ar/dataset/produccion-consumo-electrico-por-sectores-manufactureros"
+
+AL30: "https://iol.invertironline.com/Titulo/DatosHistoricos?simbolo=AL30&mercado=BCBA"
+
+Documentaciones:
+Pyplot: "https://plotly.com/python-api-reference/plotly.express.html"
+Ejemplos de uso: "https://plotly.com/python/plotly-express/"
+
+Dash: "https://dash.plotly.com/layout" --> habla un poco sobre como se arma una app de Dash
